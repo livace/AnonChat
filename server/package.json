@@ -1,0 +1,12 @@
+{
+  "name": "anonchat",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "express": "~4.16.0",
+    "socket.io": "^2.2.0"
+  }
+}
